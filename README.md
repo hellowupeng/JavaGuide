@@ -1,7 +1,3 @@
-> 推荐几个比较实用的阿里云服务，按需选择：1. [拉1人拼团，立享云服务器￥234/年](https://promotion.aliyun.com/ntms/act/vmpt/aliyun-group/home.html?userCode=hf47liqn)、2. [最高￥1888云产品通用代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn)、3. [企业级性能云服务器限时2折起](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=hf47liqn)、4. [阿里云建站服务](https://promotion.aliyun.com/ntms/act/jianzhanquan.html?userCode=hf47liqn)（企业官网、电商网站，多种可供选择模板，代金券免费领取）
-
-Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbook.cn/gitchat/activity/5bc2b6af56f0425673d299bb)
-
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :----------: | :-----------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :----:|
 | [Java](#coffee-Java)  |  [数据结构与算法](#open_file_folder-数据结构与算法)|[计算机网络与数据通信](#computer-计算机网络与数据通信) | [操作系统](#iphone-操作系统)| [主流框架](#pencil2-主流框架)|  [数据存储](#floppy_disk-数据存储)|[架构](#punch-架构)|  [面试必备](#musical_note-面试必备)| [其他](#art-其他)| [说明](#envelope-该开源文档一些说明)|
@@ -36,7 +32,7 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
    - [设计模式系列文章](https://github.com/Snailclimb/Java_Guide/blob/master/Java相关/设计模式.md)
 
 ## :open_file_folder: 数据结构与算法
-   
+
 -  ### 数据结构
    - [数据结构知识学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/数据结构与算法/数据结构.md)
 
@@ -99,7 +95,7 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
     - [程序员的简历之道](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
     - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
     
-## :art: 其他  
+## :art: 其他
 
 - ### 个人书单推荐
     - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
@@ -107,32 +103,3 @@ Gitchat 推荐：[Java 程序员必备：并发知识系统总结](https://gitbo
 - ### 技术方向选择
     - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md)  
     
-***
-
-> # :envelope: 该开源文档一些说明
-
-## 介绍
-该文档主要是笔主在学习Java的过程中的一些学习笔记，但是为了能够涉及到大部分后端学习所需的技术知识点我也会偶尔引用一些别人的优秀文章的链接。
-该文档涉及的主要内容包括： Java、 数据结构与算法、计算机网络与数据通信、 操作系统、主流框架、数据存储、架构、面试必备知识点等等。相信不论你是前端还是后端都能在这份文档中收获到东西。
-## 关于转载
-
-**如果需要引用到本仓库的一些东西，必须注明转载地址！！！毕竟大多都是手敲的，或者引用的是我的原创文章，希望大家尊重一下作者的劳动**:smiley::smiley::smiley:！
-
-## 如何对该开源文档进行贡献
-
-1. 笔记内容大多是手敲，所以难免会有笔误。
-2. 你对其他知识点的补充。
-
-## 为什么要做这个开源文档？
-
-在我们学习Java的时候，很多人会面临我不知道继续学什么或者面试会问什么的尴尬情况（我本人之前就很迷茫:smile:）。所以，我决定通过这个开源平台来帮助一些有需要的人，通过下面的内容，你会掌握系统的Java学习以及面试的相关知识。本来是想通过Gitbook的形式来制作的，后来想了想觉得可能有点大题小做 :grin: 。另外，我自己一个人的力量毕竟有限，希望各位有想法的朋友可以提issue。
-
-## 最后
-
-本人会利用业余时间一直更新下去，目前还有很多地方不完善，一些知识点我会原创总结，还有一些知识点如果说网上有比较好的文章了，我会把这些文章加入进去。您也可以关注我的微信公众号：“Java面试通关手册”，我会在这里分享一些自己的原创文章。 另外该文档格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
-
-
-
-**你若盛开，清风自来。 欢迎关注我的微信公众号：“Java面试通关手册”，一个有温度的微信公众号。公众号有大量资料，回复关键字“1”你可能看到想要的东西哦！：**
-
-![](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-8-17/29079091.jpg)
